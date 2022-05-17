@@ -1,0 +1,31 @@
+table{
+    border: 1px solid black;
+}
+#ekran{
+    width: 150px;
+}
+.title{
+border-radius: 10px;
+margin-bottom: 10px;
+text-align:center;
+width: 210px;
+color:#ff4456;
+border: solid black 1px;
+}
+input[type="button"]
+{
+border-radius: 10px;
+background-color:#44c4ff;
+color: black;
+border-color:#000000 ;
+width:100%;
+}
+input[type="text"]
+{
+border-radius: 10px;
+text-align: right;
+background-color:white;
+border-color: black ;
+width:100%
+}
+
